@@ -4,19 +4,19 @@ repo: upptime # The name of this repository
 
 sites:
   - name: N B
-    url: https://gildlab-ipfs-4.eu.ngrok.io/version
+    url: https://gildlab-ipfs-4.eu.ngrok.io/api/v0/version
     method: POST
   - name: DM L
-    url: https://gildlab-ipfs-3.eu.ngrok.io/version
+    url: https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version
     method: POST
   - name: DA B
-    url: https://gildlab-ipfs-2.eu.ngrok.io/version
+    url: https://gildlab-ipfs-2.eu.ngrok.io/api/v0/version
     method: POST
   - name: N L
-    url: https://gildlab-ipfs-1.eu.ngrok.io/version
+    url: https://gildlab-ipfs-1.eu.ngrok.io/api/v0/version
     method: POST
   - name: V B
-    url: https://gildlab-ipfs-0.in.ngrok.io/version
+    url: https://gildlab-ipfs-0.in.ngrok.io/api/v0/version
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
