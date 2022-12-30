@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-4.eu.ngrok.io.ico",
     "slug": "n-b",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 403,
     "timeDay": 403,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2022-12-30": 33
+      "2022-12-30": 61
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "up",
-    "uptime": "33.26%",
-    "uptimeDay": "33.26%",
-    "uptimeWeek": "33.26%",
-    "uptimeMonth": "33.26%",
-    "uptimeYear": "33.26%",
-    "time": 671,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "status": "down",
+    "uptime": "63.72%",
+    "uptimeDay": "63.72%",
+    "uptimeWeek": "63.72%",
+    "uptimeMonth": "63.72%",
+    "uptimeYear": "63.72%",
+    "time": 633,
+    "timeDay": 633,
+    "timeWeek": 633,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2022-12-30": 22
     }
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-1.eu.ngrok.io.ico",
     "slug": "n-l",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 395,
     "timeDay": 395,
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-12-30": 33
+      "2022-12-30": 61
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-0.in.ngrok.io.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 935,
     "timeDay": 935,
     "timeWeek": 935,
     "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2022-12-30": 33
+      "2022-12-30": 61
     }
   }
 ]
