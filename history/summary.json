@@ -16,7 +16,7 @@
     "timeMonth": 403,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2022-12-30": 79
+      "2022-12-30": 102
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "up",
-    "uptime": "49.55%",
-    "uptimeDay": "49.55%",
-    "uptimeWeek": "49.55%",
-    "uptimeMonth": "49.55%",
-    "uptimeYear": "49.55%",
-    "time": 660,
-    "timeDay": 660,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "status": "down",
+    "uptime": "60.76%",
+    "uptimeDay": "60.76%",
+    "uptimeWeek": "60.76%",
+    "uptimeMonth": "60.76%",
+    "uptimeYear": "60.76%",
+    "time": 664,
+    "timeDay": 664,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2022-12-30": 40
     }
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-1.eu.ngrok.io.ico",
     "slug": "n-l",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 395,
     "timeDay": 395,
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-12-30": 79
+      "2022-12-30": 101
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-0.in.ngrok.io.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 935,
     "timeDay": 935,
     "timeWeek": 935,
     "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2022-12-30": 79
+      "2022-12-30": 101
     }
   }
 ]
