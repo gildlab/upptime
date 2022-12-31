@@ -16,7 +16,7 @@
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2022-12-31": 793,
+      "2022-12-31": 879,
       "2022-12-30": 411
     }
   },
@@ -25,17 +25,17 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "up",
-    "uptime": "20.67%",
-    "uptimeDay": "20.67%",
-    "uptimeWeek": "20.67%",
-    "uptimeMonth": "20.67%",
-    "uptimeYear": "20.67%",
-    "time": 695,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "status": "down",
+    "uptime": "25.98%",
+    "uptimeDay": "25.98%",
+    "uptimeWeek": "25.98%",
+    "uptimeMonth": "25.98%",
+    "uptimeYear": "25.98%",
+    "time": 684,
+    "timeDay": 684,
+    "timeWeek": 684,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2022-12-31": 745,
       "2022-12-30": 211
@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-2.eu.ngrok.io.ico",
     "slug": "da-b",
     "status": "up",
-    "uptime": "38.31%",
-    "uptimeDay": "38.31%",
-    "uptimeWeek": "38.31%",
-    "uptimeMonth": "38.31%",
-    "uptimeYear": "38.31%",
+    "uptime": "42.44%",
+    "uptimeDay": "42.44%",
+    "uptimeWeek": "42.44%",
+    "uptimeMonth": "42.44%",
+    "uptimeYear": "42.44%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
@@ -79,7 +79,7 @@
     "timeMonth": 414,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2022-12-31": 793,
+      "2022-12-31": 880,
       "2022-12-30": 411
     }
   },
@@ -89,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-0.in.ngrok.io.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "1.75%",
-    "uptimeDay": "1.75%",
-    "uptimeWeek": "1.75%",
-    "uptimeMonth": "1.75%",
-    "uptimeYear": "1.75%",
+    "uptime": "1.63%",
+    "uptimeDay": "1.63%",
+    "uptimeWeek": "1.63%",
+    "uptimeMonth": "1.63%",
+    "uptimeYear": "1.63%",
     "time": 812,
     "timeDay": 812,
     "timeWeek": 812,
     "timeMonth": 812,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-12-31": 793,
+      "2022-12-31": 880,
       "2022-12-30": 390
     }
   }
