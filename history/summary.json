@@ -16,7 +16,7 @@
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2022-12-31": 879,
+      "2022-12-31": 947,
       "2022-12-30": 411
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "down",
-    "uptime": "25.98%",
-    "uptimeDay": "25.98%",
-    "uptimeWeek": "25.98%",
-    "uptimeMonth": "25.98%",
-    "uptimeYear": "25.98%",
-    "time": 684,
-    "timeDay": 684,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "status": "up",
+    "uptime": "24.70%",
+    "uptimeDay": "24.70%",
+    "uptimeWeek": "24.70%",
+    "uptimeMonth": "24.70%",
+    "uptimeYear": "24.70%",
+    "time": 692,
+    "timeDay": 692,
+    "timeWeek": 692,
+    "timeMonth": 692,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2022-12-31": 745,
+      "2022-12-31": 812,
       "2022-12-30": 211
     }
   },
@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-2.eu.ngrok.io.ico",
     "slug": "da-b",
     "status": "up",
-    "uptime": "42.44%",
-    "uptimeDay": "42.44%",
-    "uptimeWeek": "42.44%",
-    "uptimeMonth": "42.44%",
-    "uptimeYear": "42.44%",
+    "uptime": "45.30%",
+    "uptimeDay": "45.30%",
+    "uptimeWeek": "45.30%",
+    "uptimeMonth": "45.30%",
+    "uptimeYear": "45.30%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
@@ -79,7 +79,7 @@
     "timeMonth": 414,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2022-12-31": 880,
+      "2022-12-31": 947,
       "2022-12-30": 411
     }
   },
@@ -89,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-0.in.ngrok.io.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "1.63%",
-    "uptimeDay": "1.63%",
-    "uptimeWeek": "1.63%",
-    "uptimeMonth": "1.63%",
-    "uptimeYear": "1.63%",
+    "uptime": "1.55%",
+    "uptimeDay": "1.55%",
+    "uptimeWeek": "1.55%",
+    "uptimeMonth": "1.55%",
+    "uptimeYear": "1.55%",
     "time": 812,
     "timeDay": 812,
     "timeWeek": 812,
     "timeMonth": 812,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-12-31": 880,
+      "2022-12-31": 947,
       "2022-12-30": 390
     }
   }
