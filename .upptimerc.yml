@@ -12,7 +12,7 @@ sites:
   - name: DM L
     url: https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version
     method: POST
-  - name: DA B
+  - name: DA B 1
     url: https://gildlab-ipfs-2.eu.ngrok.io/api/v0/version
     method: POST
   - name: N L
