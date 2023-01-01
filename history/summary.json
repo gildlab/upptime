@@ -16,7 +16,7 @@
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-01-01": 535
+      "2023-01-01": 544
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 393,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-01-01": 1339,
+      "2023-01-01": 1348,
       "2022-12-31": 1440,
       "2022-12-30": 411
     }
@@ -46,17 +46,17 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "up",
-    "uptime": "14.02%",
-    "uptimeDay": "1.07%",
-    "uptimeWeek": "14.02%",
-    "uptimeMonth": "14.02%",
-    "uptimeYear": "14.02%",
-    "time": 623,
-    "timeDay": 441,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "status": "down",
+    "uptime": "14.27%",
+    "uptimeDay": "1.72%",
+    "uptimeWeek": "14.27%",
+    "uptimeMonth": "14.27%",
+    "uptimeYear": "14.27%",
+    "time": 615,
+    "timeDay": 433,
+    "timeWeek": 615,
+    "timeMonth": 615,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2023-01-01": 1323,
       "2022-12-31": 1209,
@@ -98,7 +98,7 @@
     "timeMonth": 392,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-01-01": 1339,
+      "2023-01-01": 1348,
       "2022-12-31": 1440,
       "2022-12-30": 411
     }
@@ -120,7 +120,7 @@
     "timeMonth": 791,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2023-01-01": 1339,
+      "2023-01-01": 1348,
       "2022-12-31": 1440,
       "2022-12-30": 390
     }
