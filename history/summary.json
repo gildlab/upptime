@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-5.eu.ngrok.io.ico",
     "slug": "da-b-2",
     "status": "down",
-    "uptime": "0.97%",
-    "uptimeDay": "0.97%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "0.97%",
-    "uptimeYear": "0.97%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 391,
     "timeDay": 391,
     "timeWeek": 391,
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-01-01": 3
+      "2023-01-01": 503
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 393,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-01-01": 807,
+      "2023-01-01": 1307,
       "2022-12-31": 1440,
       "2022-12-30": 411
     }
@@ -46,19 +46,19 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "down",
-    "uptime": "16.24%",
-    "uptimeDay": "11.73%",
-    "uptimeWeek": "16.24%",
-    "uptimeMonth": "16.24%",
-    "uptimeYear": "16.24%",
-    "time": 632,
-    "timeDay": 526,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "status": "up",
+    "uptime": "13.68%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "13.68%",
+    "uptimeMonth": "13.68%",
+    "uptimeYear": "13.68%",
+    "time": 642,
+    "timeDay": 485,
+    "timeWeek": 642,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-01-01": 807,
+      "2023-01-01": 1307,
       "2022-12-31": 1209,
       "2022-12-30": 211
     }
@@ -98,7 +98,7 @@
     "timeMonth": 392,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-01-01": 807,
+      "2023-01-01": 1307,
       "2022-12-31": 1440,
       "2022-12-30": 411
     }
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-0.in.ngrok.io.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "0.79%",
+    "uptime": "0.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.79%",
-    "uptimeMonth": "0.79%",
-    "uptimeYear": "0.79%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
     "time": 791,
     "timeDay": 764,
     "timeWeek": 791,
     "timeMonth": 791,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2023-01-01": 807,
+      "2023-01-01": 1307,
       "2022-12-31": 1440,
       "2022-12-30": 390
     }
