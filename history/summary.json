@@ -16,7 +16,7 @@
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2023-01-03": 930,
+      "2023-01-03": 979,
       "2023-01-02": 1440,
       "2023-01-01": 636
     }
@@ -38,7 +38,7 @@
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2023-01-03": 930,
+      "2023-01-03": 979,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -50,17 +50,17 @@
     "url": "https://gildlab-ipfs-3.eu.ngrok.io/api/v0/version",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-3.eu.ngrok.io.ico",
     "slug": "dm-l",
-    "status": "up",
-    "uptime": "12.94%",
-    "uptimeDay": "14.91%",
-    "uptimeWeek": "12.94%",
-    "uptimeMonth": "12.94%",
-    "uptimeYear": "12.94%",
-    "time": 588,
-    "timeDay": 555,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "status": "down",
+    "uptime": "13.69%",
+    "uptimeDay": "18.30%",
+    "uptimeWeek": "13.69%",
+    "uptimeMonth": "13.69%",
+    "uptimeYear": "13.69%",
+    "time": 583,
+    "timeDay": 521,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2023-01-03": 715,
       "2023-01-02": 1440,
@@ -75,19 +75,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-2.eu.ngrok.io.ico",
     "slug": "da-b-1",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 384,
     "timeDay": 389,
     "timeWeek": 384,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {
-      "2023-01-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "N L",
@@ -106,7 +104,7 @@
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2023-01-03": 930,
+      "2023-01-03": 979,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -130,7 +128,7 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-01-03": 930,
+      "2023-01-03": 979,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
