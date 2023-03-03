@@ -1,7 +1,7 @@
 url: https://ipfs.io/ipfs/QmYVXD6CCYEC7y5jz2rTkadiqFcDby3Xoy4q4x6RGXCAUN
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2023-03-03T13:30:43.045Z
+status: down
+code: 429
+responseTime: 46
+lastUpdated: 2023-03-03T15:14:32.991Z
 startTime: Tue Feb 28 2023 09:00:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
