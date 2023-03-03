@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab-ipfs-5.eu.ngrok.io.ico",
     "slug": "da-b-2",
     "status": "up",
-    "uptime": "46.34%",
+    "uptime": "46.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.46%",
-    "uptimeYear": "46.34%",
+    "uptimeMonth": "81.50%",
+    "uptimeYear": "46.35%",
     "time": 402,
     "timeDay": 0,
     "timeWeek": 429,
@@ -97,7 +97,7 @@
     "uptime": "54.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.48%",
+    "uptimeMonth": "81.51%",
     "uptimeYear": "54.19%",
     "time": 409,
     "timeDay": 0,
@@ -186,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.io.ico",
     "slug": "some-hash",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.63%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 149,
     "timeDay": 56,
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-03-03": 0
+      "2023-03-03": 14
     }
   },
   {
@@ -206,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.io.ico",
     "slug": "receipt-metadata-url",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.63%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 15,
     "timeDay": 8,
     "timeWeek": 15,
     "timeMonth": 15,
     "timeYear": 15,
     "dailyMinutesDown": {
-      "2023-03-03": 0
+      "2023-03-03": 14
     }
   },
   {
