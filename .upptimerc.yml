@@ -15,8 +15,8 @@ sites:
   - name: V B
     url: https://gildlab-ipfs-0.in.ngrok.io/api/v0/version
     method: POST
-  - name: Some hash
-    url: https://ipfs.io/ipfs/QmYVXD6CCYEC7y5jz2rTkadiqFcDby3Xoy4q4x6RGXCAUN
+  # - name: Some hash
+  #   url: https://ipfs.io/ipfs/QmYVXD6CCYEC7y5jz2rTkadiqFcDby3Xoy4q4x6RGXCAUN
   - name: stf website
     url: https://sft.gildlab.xyz
   - name: gl website
