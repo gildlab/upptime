@@ -6,8 +6,8 @@ sites:
   - name: DA B 2
     url: https://gildlab-ipfs-5.eu.ngrok.io/api/v0/version
     method: POST
-  - name: N B
-    url: https://gildlab-ipfs-4.eu.ngrok.io/api/v0/version
+  - name: DF B 1
+    url: https://ipfs.dragonflysun.ge/api/v0/version
     method: POST
   - name: DA B 1
     url: https://gildlab-ipfs-2.eu.ngrok.io/api/v0/version
