@@ -1,7 +1,7 @@
 url: https://gildlab-ipfs-0.in.ngrok.io/api/v0/version
-status: down
-code: 404
-responseTime: 694
-lastUpdated: 2023-03-22T12:56:45.364Z
+status: up
+code: 200
+responseTime: 728
+lastUpdated: 2023-03-22T13:15:15.827Z
 startTime: Fri Dec 30 2022 17:09:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
