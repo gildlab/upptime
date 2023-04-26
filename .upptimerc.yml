@@ -4,8 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: DA B 2
-    url: https://gildlab-ipfs-5.eu.ngrok.io/api/v0/version
+    url: https://db1.gildlab.xyz/api/v0/version
     method: POST
+    port: 81
   - name: DF B 1
     url: https://ipfs.dragonflysun.ge/api/v0/version
     method: POST
