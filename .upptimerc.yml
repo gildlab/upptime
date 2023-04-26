@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: DA B 2
-    url: https://db1.gildlab.xyz/api/v0/version
+    url: https://db2.gildlab.xyz/api/v0/version
     method: POST
     port: 81
   - name: DF B 1
@@ -14,7 +14,7 @@ sites:
     url: https://db1.gildlab.xyz/api/v0/version
     method: POST
   - name: V B
-    url: https://gildlab-ipfs-0.in.ngrok.io/api/v0/version
+    url: https://vb1.gildlab.xyz/api/v0/version
     method: POST
   # ipfs.io seems to rate limit us somehow making it hard to check
   # - name: Some hash
