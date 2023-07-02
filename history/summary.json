@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "77.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.65%",
-    "uptimeMonth": "96.70%",
+    "uptimeWeek": "85.58%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "77.81%",
     "time": 500,
     "timeDay": 544,
@@ -16,7 +16,7 @@
     "timeMonth": 635,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2023-07-02": 405,
+      "2023-07-02": 413,
       "2023-07-01": 1041,
       "2023-05-24": 589,
       "2023-05-23": 1440,
@@ -103,8 +103,8 @@
     "status": "down",
     "uptime": "80.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.65%",
-    "uptimeMonth": "96.70%",
+    "uptimeWeek": "85.58%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "80.66%",
     "time": 591,
     "timeDay": 180,
@@ -112,7 +112,7 @@
     "timeMonth": 587,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2023-07-02": 405,
+      "2023-07-02": 413,
       "2023-07-01": 1041,
       "2023-05-24": 589,
       "2023-05-23": 1440,
@@ -218,19 +218,19 @@
     "url": "https://sft.gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sft.gildlab.xyz.ico",
     "slug": "stf-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 692,
-    "timeWeek": 680,
-    "timeMonth": 755,
+    "timeDay": 691,
+    "timeWeek": 681,
+    "timeMonth": 753,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 7
     }
   },
   {
@@ -238,19 +238,19 @@
     "url": "https://gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab.xyz.ico",
     "slug": "gl-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 371,
-    "timeWeek": 616,
+    "time": 723,
+    "timeDay": 472,
+    "timeWeek": 622,
     "timeMonth": 669,
-    "timeYear": 724,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 7
     }
   }
 ]
