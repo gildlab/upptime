@@ -226,19 +226,19 @@
     "url": "https://sft.gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sft.gildlab.xyz.ico",
     "slug": "stf-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 440,
-    "timeWeek": 263,
+    "time": 583,
+    "timeDay": 369,
+    "timeWeek": 267,
     "timeMonth": 317,
-    "timeYear": 585,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 6
     }
   },
   {
