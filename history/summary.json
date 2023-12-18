@@ -79,8 +79,8 @@
     "status": "down",
     "uptime": "97.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.32%",
-    "uptimeMonth": "81.85%",
+    "uptimeWeek": "21.25%",
+    "uptimeMonth": "81.83%",
     "uptimeYear": "97.45%",
     "time": 1002,
     "timeDay": 3282,
@@ -88,7 +88,7 @@
     "timeMonth": 1047,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2023-12-18": 928,
+      "2023-12-18": 935,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
@@ -241,19 +241,19 @@
     "url": "https://sft.gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sft.gildlab.xyz.ico",
     "slug": "stf-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 215,
-    "timeWeek": 371,
-    "timeMonth": 902,
+    "timeDay": 359,
+    "timeWeek": 387,
+    "timeMonth": 890,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 7
     }
   },
   {
