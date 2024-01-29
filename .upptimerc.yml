@@ -18,6 +18,7 @@ sites:
     method: POST
   - name: SYNET
     url: http://synet.asuscomm.com/
+    method: POST
   # ipfs.io seems to rate limit us somehow making it hard to check
   # - name: Some hash
   #   url: https://ipfs.io/ipfs/QmYVXD6CCYEC7y5jz2rTkadiqFcDby3Xoy4q4x6RGXCAUN
