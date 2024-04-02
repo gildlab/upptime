@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/db2.gildlab.xyz.ico",
     "slug": "da-b-2",
     "status": "up",
-    "uptime": "91.11%",
+    "uptime": "91.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.dragonflysun.ge.ico",
     "slug": "df-b-1",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.98%",
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/db1.gildlab.xyz.ico",
     "slug": "da-b-1",
     "status": "up",
-    "uptime": "92.24%",
+    "uptime": "92.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1229,
     "timeDay": 504,
     "timeWeek": 546,
-    "timeMonth": 1157,
+    "timeMonth": 1114,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2024-03-17": 47,
@@ -162,10 +162,10 @@
     "url": "https://sft.gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sft.gildlab.xyz.ico",
     "slug": "stf-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
@@ -173,7 +173,9 @@
     "timeWeek": 361,
     "timeMonth": 433,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-02": 1
+    }
   },
   {
     "name": "gl website",
