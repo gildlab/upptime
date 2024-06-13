@@ -161,19 +161,19 @@
     "url": "https://gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab.xyz.ico",
     "slug": "gl-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 208,
-    "timeWeek": 209,
-    "timeMonth": 221,
-    "timeYear": 328,
+    "timeDay": 198,
+    "timeWeek": 206,
+    "timeMonth": 220,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-06-13": 0
+      "2024-06-13": 24
     }
   }
 ]
