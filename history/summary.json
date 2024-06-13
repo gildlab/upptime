@@ -72,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/db1.gildlab.xyz.ico",
     "slug": "da-b-1",
     "status": "up",
-    "uptime": "93.28%",
+    "uptime": "93.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -97,13 +97,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/vb1.gildlab.xyz.ico",
     "slug": "v-b",
     "status": "up",
-    "uptime": "96.35%",
-    "uptimeDay": "61.53%",
+    "uptime": "96.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.18%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "97.96%",
     "time": 1288,
-    "timeDay": 811,
+    "timeDay": 505,
     "timeWeek": 1412,
     "timeMonth": 794,
     "timeYear": 1300,
@@ -161,9 +161,9 @@
     "url": "https://gildlab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gildlab.xyz.ico",
     "slug": "gl-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,6 +172,8 @@
     "timeWeek": 209,
     "timeMonth": 221,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-13": 0
+    }
   }
 ]
