@@ -1,7 +1,7 @@
 url: https://vb1.gildlab.xyz/api/v0/version
-status: down
-code: 523
-responseTime: 7556
-lastUpdated: 2024-10-16T08:57:35.426Z
+status: up
+code: 200
+responseTime: 561
+lastUpdated: 2024-10-16T09:30:42.651Z
 startTime: 2022-12-30T17:09:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
