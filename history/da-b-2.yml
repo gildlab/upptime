@@ -1,7 +1,7 @@
 url: https://db2.gildlab.xyz/api/v0/version
-status: down
-code: 522
-responseTime: 19762
-lastUpdated: 2025-05-01T16:54:51.873Z
+status: up
+code: 200
+responseTime: 3480
+lastUpdated: 2025-05-01T17:52:26.829Z
 startTime: 2023-01-01T13:23:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
