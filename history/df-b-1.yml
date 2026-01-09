@@ -1,7 +1,7 @@
 url: https://ipfs.dragonflysun.ge/api/v0/version
-status: down
-code: 522
-responseTime: 19820
-lastUpdated: 2026-01-09T16:55:18.106Z
+status: up
+code: 200
+responseTime: 563
+lastUpdated: 2026-01-09T17:58:26.679Z
 startTime: 2023-03-05T20:09:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
