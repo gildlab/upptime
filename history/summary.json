@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.02%",
     "time": 588,
-    "timeDay": 282,
-    "timeWeek": 358,
-    "timeMonth": 950,
+    "timeDay": 246,
+    "timeWeek": 343,
+    "timeMonth": 928,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2026-03-13": 32,
@@ -39,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.dragonflysun.ge.ico",
     "slug": "df-b-1",
     "status": "down",
-    "uptime": "95.05%",
+    "uptime": "94.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.30%",
+    "uptimeMonth": "21.01%",
     "uptimeYear": "88.68%",
-    "time": 1491,
+    "time": 1493,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3020,
     "timeYear": 1863,
     "dailyMinutesDown": {
-      "2026-03-29": 103,
+      "2026-03-30": 105,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -101,8 +102,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -117,9 +117,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.01%",
     "time": 560,
-    "timeDay": 266,
-    "timeWeek": 327,
-    "timeMonth": 941,
+    "timeDay": 248,
+    "timeWeek": 315,
+    "timeMonth": 919,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-03-13": 31,
@@ -145,18 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vb1.gildlab.xyz.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "53.03%",
+    "uptime": "52.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 16383,
-    "timeDay": 19448,
-    "timeWeek": 19615,
-    "timeMonth": 19610,
-    "timeYear": 16610,
+    "time": 16392,
+    "timeDay": 19632,
+    "timeWeek": 19621,
+    "timeMonth": 19611,
+    "timeYear": 16619,
     "dailyMinutesDown": {
-      "2026-03-29": 103,
+      "2026-03-30": 105,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -519,8 +520,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -529,18 +529,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sft.gildlab.xyz.ico",
     "slug": "stf-website",
     "status": "down",
-    "uptime": "86.20%",
+    "uptime": "86.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "65.84%",
-    "time": 738,
+    "time": 740,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 824,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2026-03-29": 103,
+      "2026-03-30": 105,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -666,8 +667,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -676,18 +676,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab.xyz.ico",
     "slug": "gl-website",
     "status": "down",
-    "uptime": "54.72%",
+    "uptime": "54.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "1.88%",
     "time": 706,
-    "timeDay": 70,
-    "timeWeek": 146,
+    "timeDay": 140,
+    "timeWeek": 154,
     "timeMonth": 133,
-    "timeYear": 788,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2026-03-29": 103,
+      "2026-03-30": 105,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1045,8 +1046,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   }
 ]
