@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.02%",
     "time": 587,
-    "timeDay": 357,
-    "timeWeek": 317,
-    "timeMonth": 910,
+    "timeDay": 249,
+    "timeWeek": 282,
+    "timeMonth": 909,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2026-03-13": 32,
@@ -39,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.dragonflysun.ge.ico",
     "slug": "df-b-1",
     "status": "down",
-    "uptime": "94.79%",
+    "uptime": "94.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.43%",
+    "uptimeMonth": "11.20%",
     "uptimeYear": "88.68%",
-    "time": 1496,
+    "time": 1497,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 3381,
+    "timeMonth": 3878,
     "timeYear": 1815,
     "dailyMinutesDown": {
-      "2026-04-01": 109,
+      "2026-04-02": 85,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -101,8 +102,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -111,15 +111,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/db1.gildlab.xyz.ico",
     "slug": "da-b-1",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.01%",
     "time": 560,
-    "timeDay": 351,
-    "timeWeek": 297,
-    "timeMonth": 902,
+    "timeDay": 248,
+    "timeWeek": 279,
+    "timeMonth": 901,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-03-13": 31,
@@ -145,18 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vb1.gildlab.xyz.ico",
     "slug": "v-b",
     "status": "down",
-    "uptime": "52.90%",
+    "uptime": "52.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 16410,
-    "timeDay": 19714,
-    "timeWeek": 19559,
-    "timeMonth": 19608,
+    "time": 16419,
+    "timeDay": 19665,
+    "timeWeek": 19543,
+    "timeMonth": 19604,
     "timeYear": 16636,
     "dailyMinutesDown": {
-      "2026-04-01": 109,
+      "2026-04-02": 85,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -519,8 +520,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -529,7 +529,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sft.gildlab.xyz.ico",
     "slug": "stf-website",
     "status": "down",
-    "uptime": "85.97%",
+    "uptime": "85.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -540,7 +540,8 @@
     "timeMonth": 0,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2026-04-01": 110,
+      "2026-04-02": 85,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -666,8 +667,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -676,18 +676,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gildlab.xyz.ico",
     "slug": "gl-website",
     "status": "down",
-    "uptime": "54.58%",
+    "uptime": "54.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.88%",
-    "time": 705,
-    "timeDay": 167,
-    "timeWeek": 136,
+    "time": 703,
+    "timeDay": 110,
+    "timeWeek": 122,
     "timeMonth": 134,
-    "timeYear": 782,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2026-04-01": 110,
+      "2026-04-02": 85,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -1045,8 +1046,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   }
 ]
